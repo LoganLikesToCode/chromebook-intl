@@ -6,7 +6,7 @@ You have now set it up!
 
 ## Letter Functions:
 
-A: á
+A: á\n
 B: b
 C: ©
 D: ð
